@@ -1,0 +1,11 @@
+{
+"nome": "Lucas Alexandre Garcia de Araujo",
+"cpf": "43446891862",
+"email": "lucas.ti@jandira.sp.gov.br",
+"emailInstitucional": "lucas.araujo@educjandira.sp.gov.br",
+"cargoAtual": "Desenvolvedor",
+"cargoOrigem": "Monitor de Educação Infantil",
+"telefone": "11976993358",
+"lotacao": "Secretaria Municipal de Educação",
+"matricula": "12173"
+}

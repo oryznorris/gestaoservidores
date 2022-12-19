@@ -1,0 +1,11 @@
+{
+"nome": "Lucas Teste2",
+"cpf": "43446891865",
+"email": "lucas.ti2@jandira.sp.gov.br",
+"emailInstitucional": "lucas.araujo2@educjandira.sp.gov.br",
+"cargoAtual": "Desenvolvedor",
+"cargoOrigem": "Monitor de Educação Infantil",
+"telefone": "11976993352",
+"lotacao": "Secretaria Municipal de Educação",
+"matricula": "12178"
+}
